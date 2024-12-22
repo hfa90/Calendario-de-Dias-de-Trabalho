@@ -41,4 +41,4 @@ Benefícios e Uso
 HTML/JavaScript: Para uso em navegadores, perfeito para um sistema online ou desktop que interage visualmente com o usuário.
 Python: Para uso offline ou em automação, onde uma interface gráfica não é necessária.
 
-Ambas as versões são independentes e funcionam de maneira consistente, com flexibilidade para personalização. Se precisar de mais recursos ou integrações, avise! 😊
+Ambas as versões são independentes e funcionam de maneira consistente, com flexibilidade para personalização. 😊
